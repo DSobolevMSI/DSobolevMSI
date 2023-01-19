@@ -1,10 +1,10 @@
 # MYSELF
-## _ULTIMATE STORY OF NAGIBATOR111_
+## _ULTIMATE STORY OF NAGIBATOR112_
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 There you can see games and apps that I have mastered through my entire life:
-- STALKER CLEAR SKY
+- R
 - COMPUTER VISION IN PYTHON
 - COUNTER STRIKE: GLOBAL OFFENSIVE
 - BASH with GIT
