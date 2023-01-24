@@ -1,17 +1,15 @@
-# MYSELF
-## _ULTIMATE STORY OF NAGIBATOR112_
+#Short CV
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+##**Coding skills**:
+- Python (Pandas, NumPy, MatPlotLib, PlotLy OpenCV, SkImage, SkLearn)
+- R (ggplot2, PlotLy, Dplyr, Management)
+- Bash (Biopython)
 
-There you can see games and apps that I have mastered through my entire life:
-- R
-- COMPUTER VISION IN PYTHON
-- COUNTER STRIKE: GLOBAL OFFENSIVE
-- BASH with GIT
-- And so much more that you can't even imagine 
+
 
 ## **Professional skills in wet biology**
-- Mass-spectrometry
-![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Early_Mass_Spectrometer_%28replica%29.jpg/1920px-Early_Mass_Spectrometer_%28replica%29.jpg)
-- SDS-PAGE
+- Mass-spectrometry (Q Exactive™ Plus Hybrid Quadrupole-Orbitrap)
+- Liquid Chromatography (HPLC and UHPLC Systems | Thermo Fisher Scientific)
+- SDS-PAGE (self-made gel and equipment from BioCad)
+- Protein extraction etc.
 ![Alt Text](https://www.shutterstock.com/image-photo/different-molecular-weight-protein-band-600w-667592905.jpg)
