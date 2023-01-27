@@ -1,4 +1,4 @@
-#Short CV
+# Short CV
 
 ## **Coding skills**:
 - Python (Pandas, NumPy, MatPlotLib, PlotLy OpenCV, SkImage, SkLearn)
