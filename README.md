@@ -3,7 +3,7 @@
 ## **Coding skills**:
 - Python (Pandas, NumPy, MatPlotLib, PlotLy OpenCV, SkImage, SkLearn)
 - R (ggplot2, PlotLy, Dplyr, Management)
-- Bash (Biopython)
+- Bash (BioConda)
 
 
 ## **Skills in wet biology**
