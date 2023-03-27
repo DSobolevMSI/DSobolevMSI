@@ -15,7 +15,7 @@
 
 ## **Software skills**
 - MaxQuant, Perseus, PEAKS-X-Pro (mass-spectrometry software)
-- Blender, SolidWorks (3D cration)
+- Blender, SolidWorks (3D creation)
 - Adobe Photoshop, Adobe Illustrator, Adobe After Effects 
 
 
