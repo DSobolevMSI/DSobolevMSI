@@ -1,7 +1,7 @@
 # Short CV
 
 ## **Coding skills**:
-- Python (Pandas, NumPy, MatPlotLib, PlotLy OpenCV, SkImage, SkLearn)
+- Python (Pandas, NumPy, MatPlotLib, PlotLy, OpenCV, SkImage, SkLearn)
 - R (ggplot2, PlotLy, Dplyr, Management)
 - Bash (BioConda)
 
@@ -11,6 +11,7 @@
 - Liquid Chromatography (HPLC and UHPLC Systems | Thermo Fisher Scientific)
 - SDS-PAGE (self-made gel and equipment from BioCad)
 - Protein extraction with different techniques.
+-  MALDI-imaging (UltraflexXtream, RapiFlex)
 
 
 ## **Software skills**
