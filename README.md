@@ -1,22 +1,22 @@
-# Short CV
+# **About Me**
 
-## **Coding skills**:
-- Python (Pandas, NumPy, MatPlotLib, PlotLy, OpenCV, SkImage, SkLearn)
-- R (ggplot2, PlotLy, Dplyr, Management)
-- Bash (BioConda)
+## **👨‍💻 Coding Skills**  
+- **Python**: Pandas, NumPy, MatPlotLib, PlotLy, OpenCV, SkImage, SkLearn  
+- **R**: ggplot2, PlotLy, Dplyr, Bioconductor
+- **Bash**: BioConda, SAMtools, BEDtools, BCFtools, FASTQC, HISAT2, StringTie, FeatureCounts  
 
+## **🧪 Wet Lab Expertise**  
+- **Mass Spectrometry**: Q Exactive™ Plus Hybrid Quadrupole-Orbitrap  
+- **Liquid Chromatography**: HPLC & UHPLC (Thermo Fisher Scientific)  
+- **Protein Analysis**: SDS-PAGE (self-made gels, BioCad equipment)  
+- **Protein Extraction**: Various techniques  
+- **MALDI Imaging**: UltraflexXtream, RapiFlex, Orbitrap (MALDI-modified)  
 
-## **Skills in wet biology**
-- Mass-spectrometry (Q Exactive™ Plus Hybrid Quadrupole-Orbitrap)
-- Liquid Chromatography (HPLC and UHPLC Systems | Thermo Fisher Scientific)
-- SDS-PAGE (self-made gel and equipment from BioCad)
-- Protein extraction with different techniques.
--  MALDI-imaging (UltraflexXtream, RapiFlex)
+## **🛠 Software Proficiency**  
+- **Mass Spectrometry Tools**: MaxQuant, Perseus, PEAKS-X-Pro, FlexImaging, SCiLS Lab, Compass DataAnalysis, Compass HyStar  
+- **3D Modeling**: Blender, SolidWorks  
+- **Design & Editing**: Adobe Photoshop, Illustrator, After Effects  
 
-
-## **Software skills**
-- MaxQuant, Perseus, PEAKS-X-Pro (mass-spectrometry software)
-- Blender, SolidWorks (3D creation)
-- Adobe Photoshop, Adobe Illustrator, Adobe After Effects 
-
+---
+📌 *Passionate about mass spectrometry, data analysis, and integrating computational tools into biological research.*
 
